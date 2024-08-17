@@ -19,7 +19,7 @@ const aURL = [
   [
     "2196F3",
     "LIGHTNING",
-    "https://map.blitzortung.org/#3.87/36.5/-89.41",
+    "https://map.blitzortung.org/#9.34/30.258/-95.4319",
     "1",
     "R",
   ],
